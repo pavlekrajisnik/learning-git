@@ -7,3 +7,4 @@ Here we are adding players name:
     - Ronaldinho
     - Messi
     - Eto
+    - Torres
