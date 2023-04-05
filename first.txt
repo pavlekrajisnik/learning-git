@@ -6,3 +6,4 @@ Here we are adding players name:
     - Zidane
     - Ronaldinho
     - Messi
+    - Eto
